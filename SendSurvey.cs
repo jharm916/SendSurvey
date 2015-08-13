@@ -14,7 +14,7 @@ using System.Text.RegularExpressions;
 using System.Collections.Specialized;
 using System.Net.Mail;
 
-namespace SendSurvey
+namespace WebPartSurvey
 {
     [ToolboxItemAttribute(false)]
     public class SendSurvey : WebPart
